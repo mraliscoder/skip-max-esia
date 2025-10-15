@@ -10,7 +10,7 @@ Automatically skip max integration while logging in to gosuslugi
 2. (Только для Chrome): \
 ПКМ по иконке расширения в меню справа сверху, нажмите "Управлять расширением" (или Настройки расширения). Включите "Режим разработчика". Включите "Разрешить пользовательские скрипты" в настройках Tampermonkey
 3. Откройте эту ссылку в браузере: \
-[https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js](https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js)
+[https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js](https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/maxskip.user.js)
 4. Нажмите установить
 
 ## Пожалуйста подпишитесь
@@ -25,7 +25,7 @@ Automatically skip max integration while logging in to gosuslugi
 2. (Only for Google chrome): \
 Right-click the extension icon in the top-right menu, click "Manage extension". Enable "Developer mode". Enable "Allow user scripts".
 3. Open this link in the browser: \
-[https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js](https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js)
+[https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/skip-max.user.js](https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/maxskip.user.js)
 4. Click Install
 
 ## Please subscribe
