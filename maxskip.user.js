@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         No ESIA Max
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Auto-click "Skip" button when download.max.ru link is detected
 // @author       edwardcode
 // @match        https://esia.gosuslugi.ru/*
 // @grant        none
 // @run-at       document-idle
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gosuslugi.ru
+// @updateURL    https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/maxskip.user.js
+// @downloadURL  https://github.com/mraliscoder/skip-max-esia/raw/refs/heads/main/maxskip.user.js
 // ==/UserScript==
 
 (function() {
